@@ -1,0 +1,27 @@
+Install Spring Tools 4 for Eclipse
+	Make sure you have jdk8+ installed
+	download sts from https://spring.io/tools
+Create a new Maven project
+Update pom.xml
+
+Create a new java class
+add annotation and update main method
+Run this class as a java applicationsverify something running on 8080
+
+https://youtu.be/z_yRCVhNams?list=PLS1QulWo1RIafCnQcMlGdb8Nn4eZlksCQ
+
+
+	
+Makes it easy to create Spring powered production grade applications( or stand-alone Java Apps) on Spring Framework
+Spring Dependency Injection Framework SB suite of preconfigured set of frameworks or technologies
+Spring is the ingradients SB is the product
+spring boot starter web and spring boot starter parent
+Group Id and Artifact Id is the project Name
+
+An archetype is a piece of component code that can create the initial setup of a microservice, adhering to the reference architecture. A Maven archetype is an abstraction of a kind of a project that can be instantiated into a concrete customized Maven project. In short, it's a template project template from which other projects are created
+
+Why Maven? For dependancy Management it downloads and the required jars and adds to them to the project.
+
+Spring Initializr You can use this pre-initialized project and click Generate to download a ZIP file. 
+
+
